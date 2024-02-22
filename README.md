@@ -35,4 +35,4 @@
 
 |구분|기간|1|2|3|
 |----|---|-----|-----|---------------------|
-|1주차|2024-02-24 ~ 2024-03-01|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|테스트2|[문제집](https://www.acmicpc.net/problem/1766)|
+|1주차|2024-02-24 ~ 2024-03-01|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[좋다](https://www.acmicpc.net/problem/1253)|[문제집](https://www.acmicpc.net/problem/1766)|
