@@ -19,7 +19,7 @@
 - 짝수 주 출제자: 김형진, 장수민, 유현지
 
 ## 문제 목록
-- 문제 예시: [A+B](https://www.acmicpc.net/problem/1000)
+- 문제 예시: `[A+B](https://www.acmicpc.net/problem/1000)` => [A+B](https://www.acmicpc.net/problem/1000)
   
 |구분|1|2|3|
 |----|-----|-----|---------------------|
