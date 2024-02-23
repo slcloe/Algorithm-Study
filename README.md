@@ -44,4 +44,4 @@
 
 |구분|기간|1|2|3|4|
 |----|----|-|-|-|-|
-|1주차|2024-02-24 ~ 2024-03-01|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[좋다](https://www.acmicpc.net/problem/1253)|[문제집](https://www.acmicpc.net/problem/1766)|[형진 문제 출제 예정](https://www.acmicpc.net/problem/)|
+|1주차|2024-02-24 ~ 2024-03-01|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[좋다](https://www.acmicpc.net/problem/1253)|[문제집](https://www.acmicpc.net/problem/1766)|[아리스,청소합니다!](https://www.acmicpc.net/problem/31404)|
