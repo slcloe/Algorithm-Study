@@ -46,4 +46,4 @@
 |----|----|-|-|-|-|
 |1주차|2024-02-24 ~ 2024-03-01|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[좋다](https://www.acmicpc.net/problem/1253)|[문제집](https://www.acmicpc.net/problem/1766)|[아리스,청소합니다!](https://www.acmicpc.net/problem/31404)|
 |2주차|2024-03-02 ~ 2024-03-08|[뉴스 전하기](https://www.acmicpc.net/problem/1135)|[소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[주사위 쌓기](https://www.acmicpc.net/problem/2116)|
-|3주차|2024-03-09 ~ 2024-03-15|[세부](https://www.acmicpc.net/problem/13905)|-|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|-|
+|3주차|2024-03-09 ~ 2024-03-15|[세부](https://www.acmicpc.net/problem/13905)|-|[미확인 도착지](https://www.acmicpc.net/problem/9370)|-|
