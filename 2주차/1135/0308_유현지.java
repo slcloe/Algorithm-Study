@@ -9,11 +9,6 @@ package a2403.week1;
 import java.io.*;
 import java.util.*;
 
-/*
- * 어차피 밑으로만 가서
- * isKnowNews 필요 없을 것 같기도
- */
-
 public class bj_g2_1135_뉴스_전하기 {
     static class Node{
         int num;
