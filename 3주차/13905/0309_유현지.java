@@ -1,11 +1,19 @@
-package a2403;
+package a2403.week2;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.PriorityQueue;
-import java.util.StringTokenizer;
+/*
+ * | 활용 자료구조 | Comparable Class, Priority Queue
+ * | 활용 알고리즘 | Union-Find, Kruskal
+ * | 접근 방법 |
+ *  1. 다리들을 제한 무게 기준으로 내림차순 정렬
+ *  2. 사이클을 만들지 않는 경우에 한해 다리를 하나씩 선택
+ *  3. 다리를 붙일 때마다 시작 지점에서부터 종료 지점까지 갈 수 있는지 체크
+ *  4. 갈 수 있다면 가장 마지막에 붙인 다리의 제한 무게가 정답
+ */
 
-public class d09_bj_g4_13905_세부 {
+import java.io.*;
+import java.util.*;
+
+public class bj_g4_13905_세부 {
     static class Bridge implements Comparable<Bridge>{
         int i1;
         int i2;
@@ -36,13 +44,13 @@ public class d09_bj_g4_13905_세부 {
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
         p = new int[N+1];
+        for(int n=0; n<=N; n++){ p[n] = n; }
 
         st = new StringTokenizer(br.readLine());
         int S = Integer.parseInt(st.nextToken());
         int E = Integer.parseInt(st.nextToken());
 
         PriorityQueue<Bridge> pq = new PriorityQueue<>();
-        for(int n=0; n<=N; n++){ p[n] = n; }
         for(int m=0; m<M; m++){
             st = new StringTokenizer(br.readLine());
             int h1 = Integer.parseInt(st.nextToken());
