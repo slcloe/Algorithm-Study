@@ -70,7 +70,7 @@
 
 | 구분  | 기간                    | 백준 1                                                                             | 백준 2                                                              | 프로그래머스 1 |
 | ----- | ----------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------- |
-| 4주차 | 2024-03-16 ~ 2024-03-22 | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) |  | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
+| 4주차 | 2024-03-16 ~ 2024-03-22 | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) | [빗물](https://www.acmicpc.net/problem/14719)    | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
 | 5주차 | 2024-03-23 ~ 2024-03-29 | -                                                                                  | -                                                                   | -              |
 | 6주차 | 2024-03-30 ~ 2024-04-05 | -                                                                                  | -                                                                   | -              |
 
@@ -81,4 +81,4 @@
 | 1주차 | 2024-02-24 ~ 2024-03-01 | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) | [좋다](https://www.acmicpc.net/problem/1253)                     | [문제집](https://www.acmicpc.net/problem/1766)        | [아리스,청소합니다!](https://www.acmicpc.net/problem/31404) |
 | 2주차 | 2024-03-02 ~ 2024-03-08 | [뉴스 전하기](https://www.acmicpc.net/problem/1135)         | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) | [문자열 폭발](https://www.acmicpc.net/problem/9935)   | [주사위 쌓기](https://www.acmicpc.net/problem/2116)         |
 | 3주차 | 2024-03-09 ~ 2024-03-15 | [세부](https://www.acmicpc.net/problem/13905)               | [구간 합 구하기](https://www.acmicpc.net/problem/2042)           | [미확인 도착지](https://www.acmicpc.net/problem/9370) | [폴더 정리](https://www.acmicpc.net/problem/22860)          |
-| 4주차 | 2024-03-16 ~ 2024-03-22 |                                                             |                                                                  |                                                       | [빗물](https://www.acmicpc.net/problem/14719)               |
+
