@@ -71,7 +71,7 @@
 | 구분  | 기간                    | 백준 1                                                                             | 백준 2                                                              | 프로그래머스 1 |
 | ----- | ----------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------- |
 | 4주차 | 2024-03-16 ~ 2024-03-22 | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) | [빗물](https://www.acmicpc.net/problem/14719)    | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
-| 5주차 | 2024-03-23 ~ 2024-03-29 | [미친 아두이노](https://www.acmicpc.net/problem/8972) | -                                                                   | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)              |
+| 5주차 | 2024-03-23 ~ 2024-03-29 | [미친 아두이노](https://www.acmicpc.net/problem/8972) | [거울 설치](https://www.acmicpc.net/problem/2151) | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)              |
 | 6주차 | 2024-03-30 ~ 2024-04-05 | -                                                                                  | -                                                                   | -              |
 
 ### 예전 버전
