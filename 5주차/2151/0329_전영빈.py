@@ -9,6 +9,7 @@
 거울 자리에 도달해도 거울을 설치하지 않을 수 있다는 점을 명심해야 한다.
 """
 
+
 import sys
 from collections import deque
 
