@@ -8,10 +8,8 @@ def main():
 
     house = []
     door_loc = []
-    visited = [[1000] * n for _ in range(n)]
     dx = [0, 1, 0, -1]
     dy = [1, 0, -1, 0]
-
 
     for i in range(n):
         house.append(list(input().rstrip()))
