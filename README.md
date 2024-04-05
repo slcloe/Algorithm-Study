@@ -75,7 +75,7 @@
 | 4주차 | 2024-03-16 ~ 2024-03-22 | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) | [빗물](https://www.acmicpc.net/problem/14719)    | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
 | 5주차 | 2024-03-23 ~ 2024-03-29 | [미친 아두이노](https://www.acmicpc.net/problem/8972) | [거울 설치](https://www.acmicpc.net/problem/2151) | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)              |
 | 6주차 | 2024-03-30 ~ 2024-04-05 | [도둑](https://www.acmicpc.net/problem/13422) | [합이 0](https://www.acmicpc.net/problem/3151)| [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
-| 7주차 | 2024-04-06 ~ 2024-04-12 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |  |
+| 7주차 | 2024-04-06 ~ 2024-04-12 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |  | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
 | 8주차 | 2024-04-13 ~ 2024-04-19 |  |  |  |
 | 9주차 | 2024-04-20 ~ 2024-04-26 |  |  |  |
 | 10주차 | 2024-04-27 ~ 2024-05-03 |  |  |  |
