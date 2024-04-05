@@ -35,6 +35,7 @@ def solution(land):
             answer=res          
     return answer
 
+
 """
 bfs를 이용해서 미리 석유량을 계산
 모든 col를 돌면서 시추관의 위치와 획득한 덩어리들 중 최대를 구함
