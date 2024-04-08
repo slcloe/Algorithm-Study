@@ -16,7 +16,7 @@ def solution(land):
                 d[uniq] = sparse
                 uniq += 1
 
-    
+
     answer = -1
     for j in range(m):
         s = set()
