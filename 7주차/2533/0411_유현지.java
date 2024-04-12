@@ -1,5 +1,6 @@
 /*
  * | 활용 알고리즘 | DFS, DP
+ * 
  * | 활용 자료구조 | array of ArrayList
  *
  * | 접근 방법 |
@@ -14,7 +15,7 @@
  *  5. 어떤 노드든 [노드 번호][0], [노드 번호][1] 중 더 작은 값이 답이 된다
  */
 
-package a2404.week7;
+package a2404.study.week7;
 
 import java.io.*;
 import java.util.*;
