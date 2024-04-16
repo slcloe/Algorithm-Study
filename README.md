@@ -76,7 +76,7 @@
 | 5주차 | 2024-03-23 ~ 2024-03-29 | [미친 아두이노](https://www.acmicpc.net/problem/8972) | [거울 설치](https://www.acmicpc.net/problem/2151) | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)              |
 | 6주차 | 2024-03-30 ~ 2024-04-05 | [도둑](https://www.acmicpc.net/problem/13422) | [합이 0](https://www.acmicpc.net/problem/3151)| [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
 | 7주차 | 2024-04-06 ~ 2024-04-12 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [브실이는 잔디가 좋아 🌱 ](https://www.acmicpc.net/problem/29737) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
-| 8주차 | 2024-04-13 ~ 2024-04-19 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |[페그 솔리테어](https://www.acmicpc.net/problem/9207)  | [수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134) |
+| 8주차 | 2024-04-13 ~ 2024-04-19 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [페그 솔리테어](https://www.acmicpc.net/problem/9207) | [수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134) |
 | 9주차 | 2024-04-20 ~ 2024-04-26 |  |  |  |
 | 10주차 | 2024-04-27 ~ 2024-05-03 |  |  |  |
 
