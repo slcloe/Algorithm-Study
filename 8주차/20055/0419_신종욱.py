@@ -7,7 +7,7 @@ def rotate():
     n = belts.pop()
     belts.insert(1, n)
 
-    # 로봇 회전
+    # 로봇 회전 
     new_robot = [] # 회전 후 로봇 저장
     is_robot = [False for _ in range(len(belts))] # 로봇 존재 여부 초기화
     for belt_index in robots:
