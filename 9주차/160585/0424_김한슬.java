@@ -11,11 +11,20 @@
     X 빙고라면 즉시 종료되어야 하므로 (O의 수 == X의 수)
 */
 
-
-
 class Solution {
     int a = 0, b = 0;
     int[][] a_cnt, b_cnt;
+    
+    int calBingo(int[][] arrays){
+        int bingo = 0;
+        for(int[] arr : arrays){
+            for(int num : arr){
+                if (num == 3) bingo++;
+            }
+        }
+        return bingo;
+    }
+    
     public int solution(String[] board) {
         int result = 1;
         
@@ -39,20 +48,8 @@ class Solution {
             }
         }
 
-        int bingo_a = 0;
-        int bingo_b = 0;
-        
-        for(int[] arr : a_cnt){
-            for(int num : arr){
-                if (num == 3) bingo_a++;
-            }
-        }
-        
-        for(int[] arr : b_cnt){
-            for(int num : arr){
-                if (num == 3) bingo_b++;
-            }
-        }
+        int bingo_a = calBingo(a_cnt);
+        int bingo_b = calBingo(b_cnt);
         
         if (board[0].charAt(0) == board[1].charAt(1) 
             && board[0].charAt(0) == board[2].charAt(2) 
@@ -70,9 +67,7 @@ class Solution {
         
         if (a - b >= 2 || b > a) 
             result = 0;
-        else {
-            if (a + b == 9) result = 1;
-            
+        else {       
             if (bingo_a > 0 && bingo_b > 0) 
                 result = 0;
             else if (bingo_a > 0) {
