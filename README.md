@@ -79,7 +79,7 @@
 | 8주차 | 2024-04-13 ~ 2024-04-19 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [페그 솔리테어](https://www.acmicpc.net/problem/9207) | [수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134) |
 | 9주차 | 2024-04-20 ~ 2024-04-26 | [할로윈의 양아치](https://www.acmicpc.net/problem/20303) | [도로검문](https://www.acmicpc.net/problem/2307) | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) |
 | 10주차 | 2024-04-27 ~ 2024-05-03 | [철로](https://www.acmicpc.net/problem/13334) |[팩맨](https://www.acmicpc.net/problem/11451)|  [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|
-| 11주차 | 2024-05-04 ~ 2024-05-10 | [문자판](https://www.acmicpc.net/problem/2186) |  |  |
+| 11주차 | 2024-05-04 ~ 2024-05-10 | [문자판](https://www.acmicpc.net/problem/2186) | [슬슬 가지를 먹지 않으면 죽는다](https://www.acmicpc.net/problem/27945) |  |
 | 12주차 | 2024-05-11 ~ 2024-05-17 |  |  |  |
 | 13주차 | 2024-05-18 ~ 2024-05-24 |  |  |  |
 
