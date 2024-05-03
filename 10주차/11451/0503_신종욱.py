@@ -26,7 +26,6 @@ def bfs():
     print('IMPOSSIBLE')
 
 def main():
-    
     data = input().split()
     idx = 0
     t = int(data[idx])
