@@ -18,18 +18,16 @@ def solution(gems):
     for key in count.keys():
         value_sum += count[key]
 
-    print(count)
-
     pl, pr = -1, -1
     left, right = 0, len(gems) - 1
     while left <= right and (pl != left or pr != right):
         pl, pr = left, right
-        if count[gems[left]] > 1:
-            count[gems[left]] -= 1
-            left += 1
-        elif count[gems[right]] > 1:
+        if count[gems[right]] > 1:
             count[gems[right]] -= 1
             right -= 1
+        elif count[gems[left]] > 1:
+            count[gems[left]] -= 1
+            left += 1
         
     answer = [left + 1, right + 1]
 
