@@ -71,7 +71,7 @@
 | 10주차 | 2024-04-27 ~ 2024-05-03 | [철로](https://www.acmicpc.net/problem/13334) |[팩맨](https://www.acmicpc.net/problem/11451)|  [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|
 | 11주차 | 2024-05-04 ~ 2024-05-10 | [문자판](https://www.acmicpc.net/problem/2186) | [슬슬 가지를 먹지 않으면 죽는다](https://www.acmicpc.net/problem/27945) | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |
 | 12주차 | 2024-05-11 ~ 2024-05-17 | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) | [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
-| 13주차 | 2024-05-18 ~ 2024-05-24 | [내일 할거야](https://www.acmicpc.net/problem/7983) | [우유 도시](https://www.acmicpc.net/problem/14722) |  |
+| 13주차 | 2024-05-18 ~ 2024-05-24 | [내일 할거야](https://www.acmicpc.net/problem/7983) | [우유 도시](https://www.acmicpc.net/problem/14722) | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) |
 
 ### 예전 버전
 
