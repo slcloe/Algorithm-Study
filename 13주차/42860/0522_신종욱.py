@@ -1,21 +1,12 @@
-'''
-AA...A를 name으로 바꾸는 풀이
-'''
 def solution(name):
     # 위 아래는 Greedy choice
     # 왼쪽 갈지 오른쪽 갈지는 Greedy choice가 불가능하다: "ABAAAABB"
     # -> 위 아래는 Greedy choice, 왼쪽 오른쪽은 완전탐색
 
     def solve(curr, idx=0, ans=0):
-        print(f'name: {name}')
-        print(f'curr: {curr}, ans: {ans}, idx: {idx}')
-
         # 1. 현재 idx에 대해 알파벳을 일치시키는 위아래 횟수 체크
         ud = up_or_down(name, curr, idx)
-        
         curr[idx] = name[idx]
-        print(f'ud: {ud}')
-        
         ans += ud
 
         if curr == name:
@@ -26,12 +17,11 @@ def solution(name):
         left_next, left_cnt = get_left_next(curr, name, idx)
 
         r = [cu for cu in curr]
-        right_ans = solve(r, right_next, ans + right_cnt)        
+        right_ans = solve(r, right_next, ans + right_cnt)
         l = [cu for cu in curr]
         left_ans = solve(l, left_next, ans + left_cnt)
 
-        print(f'ra: {right_ans}, la: {left_ans}')
-
+        
         # 3. 왼쪽으로 간 경우의 답과 오른쪽으로 간 경우의 답 비교 후 최소값 리턴
         return min(right_ans, left_ans)
 
@@ -73,6 +63,3 @@ def up_or_down(name: str, curr, idx: int):
     b = 26 - a
     
     return min(a, b)
-
-
-print(solution('JEROEN'))
