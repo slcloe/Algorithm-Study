@@ -11,6 +11,7 @@
 - 예시: `1주차 폰켓몬 solved`
 
 ## 스터디 규칙
+
 ### ※ 확인하지 않아서 생기는 불이익은 모두 자신이 감당해야 함 ※
 
 - 매주 **금요일 자정**까지 4문제 모두 풀이 및 주석 업로드
@@ -60,18 +61,20 @@
 
 ### 개정 버전
 
-| 구분  | 기간                    | 백준 1                                                                             | 백준 2                                                              | 프로그래머스 1 |
-| ----- | ----------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------- |
-| 4주차 | 2024-03-16 ~ 2024-03-22 | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) | [빗물](https://www.acmicpc.net/problem/14719)    | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
-| 5주차 | 2024-03-23 ~ 2024-03-29 | [미친 아두이노](https://www.acmicpc.net/problem/8972) | [거울 설치](https://www.acmicpc.net/problem/2151) | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)              |
-| 6주차 | 2024-03-30 ~ 2024-04-05 | [도둑](https://www.acmicpc.net/problem/13422) | [합이 0](https://www.acmicpc.net/problem/3151)| [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
-| 7주차 | 2024-04-06 ~ 2024-04-12 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [브실이는 잔디가 좋아 🌱 ](https://www.acmicpc.net/problem/29737) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
-| 8주차 | 2024-04-13 ~ 2024-04-19 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [페그 솔리테어](https://www.acmicpc.net/problem/9207) | [수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134) |
-| 9주차 | 2024-04-20 ~ 2024-04-26 | [할로윈의 양아치](https://www.acmicpc.net/problem/20303) | [도로검문](https://www.acmicpc.net/problem/2307) | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) |
-| 10주차 | 2024-04-27 ~ 2024-05-03 | [철로](https://www.acmicpc.net/problem/13334) |[팩맨](https://www.acmicpc.net/problem/11451)|  [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|
-| 11주차 | 2024-05-04 ~ 2024-05-10 | [문자판](https://www.acmicpc.net/problem/2186) | [슬슬 가지를 먹지 않으면 죽는다](https://www.acmicpc.net/problem/27945) | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |
-| 12주차 | 2024-05-11 ~ 2024-05-17 | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) | [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
-| 13주차 | 2024-05-18 ~ 2024-05-24 | [내일 할거야](https://www.acmicpc.net/problem/7983) | [우유 도시](https://www.acmicpc.net/problem/14722) |  |
+| 구분   | 기간                    | 백준 1                                                              | 백준 2                                                                  | 프로그래머스 1                                                                         |
+| ------ | ----------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 4주차  | 2024-03-16 ~ 2024-03-22 | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) | [빗물](https://www.acmicpc.net/problem/14719)                           | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)     |
+| 5주차  | 2024-03-23 ~ 2024-03-29 | [미친 아두이노](https://www.acmicpc.net/problem/8972)               | [거울 설치](https://www.acmicpc.net/problem/2151)                       | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)    |
+| 6주차  | 2024-03-30 ~ 2024-04-05 | [도둑](https://www.acmicpc.net/problem/13422)                       | [합이 0](https://www.acmicpc.net/problem/3151)                          | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)           |
+| 7주차  | 2024-04-06 ~ 2024-04-12 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)          | [브실이는 잔디가 좋아 🌱 ](https://www.acmicpc.net/problem/29737)       | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)          |
+| 8주차  | 2024-04-13 ~ 2024-04-19 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)    | [페그 솔리테어](https://www.acmicpc.net/problem/9207)                   | [수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134)      |
+| 9주차  | 2024-04-20 ~ 2024-04-26 | [할로윈의 양아치](https://www.acmicpc.net/problem/20303)            | [도로검문](https://www.acmicpc.net/problem/2307)                        | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) |
+| 10주차 | 2024-04-27 ~ 2024-05-03 | [철로](https://www.acmicpc.net/problem/13334)                       | [팩맨](https://www.acmicpc.net/problem/11451)                           | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)         |
+| 11주차 | 2024-05-04 ~ 2024-05-10 | [문자판](https://www.acmicpc.net/problem/2186)                      | [슬슬 가지를 먹지 않으면 죽는다](https://www.acmicpc.net/problem/27945) | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)           |
+| 12주차 | 2024-05-11 ~ 2024-05-17 | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764)           | [경쟁적 전염](https://www.acmicpc.net/problem/18405)                    | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)         |
+| 13주차 | 2024-05-18 ~ 2024-05-24 | [내일 할거야](https://www.acmicpc.net/problem/7983)                 | [우유 도시](https://www.acmicpc.net/problem/14722)                      | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)            |
+| 14주차 | 2024-05-25 ~ 2024-05-31 |                                                                     |                                                                         |                                                                                        |
+| 15주차 | 2024-06-01 ~ 2024-06-07 |                                                                     |                                                                         |                                                                                        |
 
 ### 예전 버전
 
