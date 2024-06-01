@@ -74,7 +74,7 @@
 | 12주차 | 2024-05-11 ~ 2024-05-17 | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) | [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
 | 13주차 | 2024-05-18 ~ 2024-05-24 | [내일 할거야](https://www.acmicpc.net/problem/7983) | [우유 도시](https://www.acmicpc.net/problem/14722) | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) |
 | 14주차 | 2024-05-25 ~ 2024-05-31 | [서강그라운드](https://www.acmicpc.net/problem/14938)  | [모노톤길](https://www.acmicpc.net/problem/11067) |  [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |
-| 15주차 | 2024-06-01 ~ 2024-06-07 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |  |  |
+| 15주차 | 2024-06-01 ~ 2024-06-07 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |  |
 | 16주차 | 2024-06-08 ~ 2024-06-14 |  |  |  |
 
 ### 예전 버전
