@@ -17,24 +17,21 @@ def main():
 
     def solve(i, j):
         # 1. 시작 위치 (i, j)에 대해
-        #   2. 모든 공차(행은 -(n - 1) ~ n - 1, 열은 -(m - 1) ~ m - 1)에 대해
+        #   2. 모든 공차(행은 -(n - 1) ~ n - 1, 열은 -(m - 1) ~ m - 1
         sub_ans = table[i][j]
-        for di in range(-n + 1, n, 1):
-            for dj in range(-m + 1, m, 1):
+        for di in range(-n + 1, n):
+            for dj in range(-m + 1, m):
                 if di == 0 and dj == 0:
                     continue
 
-                curr_ans = [str(table[i][j])]
+                curr_ans = table[i][j]
                 ni, nj = i + di, j + dj
-
                 while range_check(ni, nj):
-                    curr_ans.append(str(table[ni][nj]))
-
-                    # 만들 때마다 sub_ans를 갱신해야 함
-                    # 시작점은 무조건 포함되므로 중간 일부나 끝 일부를 검사할 필요는 없음
-                    curr_ans_int = int(''.join(curr_ans))
-                    if is_square(curr_ans_int):
-                        sub_ans = max(sub_ans, curr_ans_int)
+                    # 계속 갱신해야 됨
+                    # 시작 위치는 정해져 있지만 끝 위치는 정해져 있지 않다.
+                    curr_ans = curr_ans*10 + table[ni][nj]
+                    if is_square(curr_ans):
+                        sub_ans = max(sub_ans, curr_ans)
 
                     ni, nj = ni + di, nj + dj
 
