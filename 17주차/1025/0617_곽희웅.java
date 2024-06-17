@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main_bj_1025 {
+public class 0617_곽희웅 {
 
     /*
     접근 방식 : 어디 있는 수더라도 어느 방향으로든 뻗어나갈 수 있기 때문에, 모든 경우의 수를 나눠야겠다고 생각함.
