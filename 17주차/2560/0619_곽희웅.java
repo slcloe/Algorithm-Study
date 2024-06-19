@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main_bj_2560 {
+public class 0619_곽희웅 {
 
     /*
     접근 방식 : 처음 완전 탐색을 변형한 풀이를 활용하니 시간초과가 발생.
