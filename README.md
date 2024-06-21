@@ -77,7 +77,7 @@
 | 15주차 | 2024-06-01 ~ 2024-06-07 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |
 | 16주차 | 2024-06-08 ~ 2024-06-14 |  [드래곤 커브](https://www.acmicpc.net/problem/15685)| [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) |
 | 17주차 | 2024-06-15 ~ 2024-06-21 | [제곱수 찾기](https://www.acmicpc.net/problem/1025) | [짚신벌레](https://www.acmicpc.net/problem/2560) | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |
-| 18주차 | 2024-06-22 ~ 2024-06-28 | [Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954) |  | [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289) |
+| 18주차 | 2024-06-22 ~ 2024-06-28 | [Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954) |[누텔라 트리](https://www.acmicpc.net/problem/23040)  | [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289) |
 | 19주차 | 2024-06-29 ~ 2024-07-05 |  |  |  |
 | 20주차 | 2024-07-06 ~ 2024-07-12 |  |  |  |
 
