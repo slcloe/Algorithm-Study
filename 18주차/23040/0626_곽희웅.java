@@ -2,7 +2,7 @@ package com.example.algo;
 
 import java.io.*;
 import java.util.*;
-public class Main_bj_23040 {
+public class 0626_곽희웅 {
 
     /*
     접근 방식 : 결국 B 부터 시작하는 R의 개수를 세는 것이라 생각하여 구현했지만, 역시나 시간초과,,, unsolved로 제출 후 다시 풀어봐야겠음
