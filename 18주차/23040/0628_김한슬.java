@@ -14,6 +14,8 @@ R 정점의 개수를 반복적으로 구하지 않아야함. => 빨간색 정�
 1. 그래프 입력
 2. B 정점을 root 로 R 정점들을 탐색할때 union-find로 묶어서 R 정점끼리 그룹 수 갱신
 
+*** N 범위를 잘 체크해서 정답 MAX 값 까지 꼭꼭 체크하자 ㅠㅠ ***
+
 
  */
 
@@ -24,15 +26,13 @@ public class Main {
     static ArrayList<Integer> g[];
     static boolean[] v;
     static char strs[];
-    static int dp[];
-    static int findNutella(int root) {
-        int result = 0;
-//        System.out.println(root);
+    static long dp[];
+    static long findNutella(int root) {
+        long result = 0;
 
         for(int e : g[root]) {
             if (strs[e - 1] == 'B') continue;
-            v = new boolean[N + 1];
-            v[root] = true;
+
             if (dp[e] == 0) {
                 dp[e] = findNutellaDfs(e);
                 result += dp[e];
@@ -45,8 +45,8 @@ public class Main {
         return result;
     }
 
-    static int findDp(int e) {
-        if (dp[e] < 0) return dp[e] = findDp(-dp[e]);
+    static long findDp(int e) {
+        if (dp[e] < 0) return dp[e] = findDp((int)-dp[e]);
         else return dp[e];
     }
 
@@ -68,7 +68,7 @@ public class Main {
         
         N = Integer.parseInt(br.readLine());
         g = new ArrayList[N + 1];
-        dp = new int[N + 1];
+        dp = new long[N + 1];
 
         for (int i = 0; i <= N; i++) {
             g[i] = new ArrayList<>();
@@ -84,12 +84,17 @@ public class Main {
 
         strs = br.readLine().toCharArray();
 
-        int result = 0;
+        long result = 0;
+        v = new boolean[N + 1];
+
         for (int i = 0; i < N; i++) {
-            if (strs[i] == 'B')
+            if (strs[i] == 'B'){
+                v[i + 1] = true;
                 result += findNutella(i + 1);
+            }
         }
 
         System.out.println(result);
     }
 }
+
