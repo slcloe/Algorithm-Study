@@ -79,7 +79,7 @@
 | 17주차 | 2024-06-15 ~ 2024-06-21 | [제곱수 찾기](https://www.acmicpc.net/problem/1025) | [짚신벌레](https://www.acmicpc.net/problem/2560) | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |
 | 18주차 | 2024-06-22 ~ 2024-06-28 | [Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954) | [누텔라 트리](https://www.acmicpc.net/problem/23040) | [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289) |
 | 19주차 | 2024-06-29 ~ 2024-07-05 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) |
-| 20주차 | 2024-07-06 ~ 2024-07-12 |  |  |  |
+| 20주차 | 2024-07-06 ~ 2024-07-12 |  [줄세우기](https://www.acmicpc.net/problem/2631)|  |  |
 
 ### 예전 버전
 
