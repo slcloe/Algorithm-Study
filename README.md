@@ -81,6 +81,7 @@
 | 19주차 | 2024-06-29 ~ 2024-07-05 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) |
 | 20주차 | 2024-07-06 ~ 2024-07-12 |  [줄세우기](https://www.acmicpc.net/problem/2631)| [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) |
 | 21주차 | 2024-07-13 ~ 2024-07-19 | [숫자카드](https://www.acmicpc.net/problem/2591) | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) |[n+1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) |
+| 22주차 | 2024-07-20 ~ 2024-07-26 | [성곽](https://www.acmicpc.net/problem/2234) |  |[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|
 
 ### 예전 버전
 
