@@ -29,5 +29,3 @@ for (let i = 1; i <= N; i++) {
     arr[i] = parseInt(input[i]);
 }
 init(1, 1, N);
-console.log(min_tree);
-console.log(max_tree);
