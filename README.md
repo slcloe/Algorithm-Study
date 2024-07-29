@@ -82,7 +82,7 @@
 | 20주차 | 2024-07-06 ~ 2024-07-12 |  [줄세우기](https://www.acmicpc.net/problem/2631)| [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) |
 | 21주차 | 2024-07-13 ~ 2024-07-19 | [숫자카드](https://www.acmicpc.net/problem/2591) | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) |[n+1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) |
 | 22주차 | 2024-07-20 ~ 2024-07-26 | [성곽](https://www.acmicpc.net/problem/2234) |[ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535)  |[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|
-| 23주차 | 2024-07-27 ~ 2024-08-02 | [포스택](https://www.acmicpc.net/problem/25556) | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |  |
+| 23주차 | 2024-07-27 ~ 2024-08-02 | [포스택](https://www.acmicpc.net/problem/25556) | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) |
 | 24주차 | 2024-08-03 ~ 2024-08-09 |  |  |  |
 | 25주차 | 2024-08-10 ~ 2024-08-16 |  |  |  |
 | 26주차 | 2024-08-17 ~ 2024-08-23 |  |  |  |
