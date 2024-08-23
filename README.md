@@ -85,7 +85,7 @@
 | 23주차 | 2024-07-27 ~ 2024-08-02 | [포스택](https://www.acmicpc.net/problem/25556) | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) |
 | 24주차 | 2024-08-03 ~ 2024-08-09 | [불!](https://www.acmicpc.net/problem/4179) | [0 만들기](https://www.acmicpc.net/problem/7490) | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) |
 | 25주차 | 2024-08-10 ~ 2024-08-16 | [소트 게임](https://www.acmicpc.net/problem/1327) | [달빛 여우](https://www.acmicpc.net/problem/16118) | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) |
-| 26주차 | 2024-08-17 ~ 2024-08-23 | [미네랄](https://www.acmicpc.net/problem/2933)|  | [리코쳇로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |
+| 26주차 | 2024-08-17 ~ 2024-08-23 | [미네랄](https://www.acmicpc.net/problem/2933)|[항체 인식](https://www.acmicpc.net/problem/22352)  | [리코쳇로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |
 | 27주차 | 2024-08-24 ~ 2024-08-30 |  |  |  |
 | 28주차 | 2024-08-31 ~ 2024-09-06 |  |  |  |
 | 29주차 | 2024-09-07 ~ 2024-09-13 |  |  |  |
