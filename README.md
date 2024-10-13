@@ -65,9 +65,10 @@
 | 26주차 | 2024-08-17 ~ 2024-08-23 | [미네랄](https://www.acmicpc.net/problem/2933)|[항체 인식](https://www.acmicpc.net/problem/22352)  | [리코쳇로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |
 | 27주차 | 2024-08-24 ~ 2024-08-30 | [우주 탐사선](https://www.acmicpc.net/problem/17182) | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) | [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829) |
 | 28주차 | 2024-08-31 ~ 2024-09-06 | [비슷한 단어](https://www.acmicpc.net/problem/2179) | [피자 굽기](https://www.acmicpc.net/problem/1756) | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |
-| 29주차 | 2024-09-07 ~ 2024-09-13 |  |  |  |
-| 30주차 | 2024-09-14 ~ 2024-09-20 |  |  |  |
-
+| 29주차 | 2024-09-07 ~ 2024-09-13 | [모노미노도미노 2](https://www.acmicpc.net/problem/20061) | [전기가 부족해](https://www.acmicpc.net/problem/10423) | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |
+| 30주차 | 2024-09-14 ~ 2024-09-20 | [앱](https://www.acmicpc.net/problem/7579) | [과외맨](https://www.acmicpc.net/problem/5213) | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) |
+| 31주차 | 2024-09-21 ~ 2024-09-27 | [입국심사](https://www.acmicpc.net/problem/3079) | [여행 가자](https://www.acmicpc.net/problem/1976) | [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288) |
+| 32주차 | 2024-09-28 ~ 2024-10-04 |  |  |  |
 ### 예전 버전
 
 | 구분  | 기간                    | 1                                                           | 2                                                                | 3                                                     | 4                                                           |
